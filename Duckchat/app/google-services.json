@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289996941892",
+    "project_id": "duckchat-9e768",
+    "storage_bucket": "duckchat-9e768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289996941892:android:4ce65ba4a3dd913c182a11",
+        "android_client_info": {
+          "package_name": "com.example.duckchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCydRinCSyHKHUibTvDtIrBgBXPrXOh7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
